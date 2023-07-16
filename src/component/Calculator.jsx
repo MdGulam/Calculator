@@ -20,7 +20,6 @@ function Calculator() {
     setResult(eval(result).toString());
   }
   
- 
 
   return (
     
